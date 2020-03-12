@@ -1,0 +1,205 @@
+
+@media (max-width: 575.98px) { 
+    .navbar-light .navbar-toggler {
+        margin-right: 23px;
+        font-size: 15px;
+    }
+    .c-logo img {
+        width: 80%;
+    }
+    .navbar-nav {
+        font-size: 16px;
+        padding-left: 31px;
+    }
+    .content {
+        width: 70%;
+    }
+    .img-1 {
+        margin-left: 33px;
+    }
+    .img-2 {
+        margin-left: 2px;
+    }
+    .lifestyle span {
+        font-size: 13px;
+    }
+    .lifestyle h1 {
+        font-size: 20px;
+        margin-bottom: 31px;
+    }
+    .lifestyle p{
+        font-size: 14px;
+    }
+    .photodiary span {
+        font-size: 13px;
+    }
+    .photodiary h1 {
+        font-size: 23px;
+        margin-bottom: 31px;
+    }
+    .photodiary p{
+        font-size: 14px;
+    }
+    .nc{
+        width: 34%;
+    }
+    .nc h1 {
+        font-size: 15px;
+        margin-top: -14px;
+    }
+    .nc input {
+        width: 149%;
+        font-size: 9px;
+    }
+    .icon img {
+        right: -38px;
+        width: 15%;
+    }
+    .btn input {
+        padding: 10px;
+        font-size: 14px;
+    }
+    .btn input:hover{
+        font-size: 16px;
+    }
+    footer .left ul li a {
+        
+        font-size: 12px;
+    }
+    footer .right ul li a {
+        font-size: 12px;
+    }
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar-light .navbar-toggler {
+        margin-right: 23px;
+        font-size: 15px;
+    }
+    .c-logo img {
+        width: 80%;
+    }
+    .navbar-nav {
+        font-size: 16px;
+        padding-left: 31px;
+    }
+    .content {
+        width: 70%;
+    }
+    .img-1 {
+        margin-left: 33px;
+    }
+    .img-2 {
+        margin-left: 2px;
+    }
+    .lifestyle span {
+        font-size: 13px;
+    }
+    .lifestyle h1 {
+        font-size: 23px;
+        margin-bottom: 31px;
+    }
+    .lifestyle p{
+        font-size: 14px;
+    }
+    .photodiary span {
+        font-size: 13px;
+    }
+    .photodiary h1 {
+        font-size: 23px;
+        margin-bottom: 31px;
+    }
+    .photodiary p{
+        font-size: 14px;
+    }
+    .nc h1 {
+        font-size: 18px;
+    }
+    .nc input {
+        width: 149%;
+        font-size: 10px;
+    }
+    .icon img {
+        right: -38px;
+        width: 17%;
+    }
+    .btn input {
+        padding: 13px;
+        font-size: 14px;
+    }
+    .btn input:hover{
+        font-size: 16px;
+    }
+    footer .left ul li a {
+        
+        font-size: 12px;
+    }
+    footer .right ul li a {
+        font-size: 12px;
+    }
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-light .navbar-toggler {
+        margin-right: 33px;
+        font-size: 17px;
+    }
+    .navbar-nav {
+        font-size: 17px;
+        padding-left: 31px;
+    }
+    
+    .lifestyle span {
+        font-size: 14px;
+    }
+    .lifestyle h1 {
+        font-size: 25px;
+        margin-bottom: 31px;
+    }
+    .lifestyle p{
+        font-size: 15px;
+    }
+    .photodiary span {
+        font-size: 14px;
+    }
+    .photodiary h1 {
+        font-size: 25px;
+        margin-bottom: 31px;
+    }
+    .photodiary p{
+        font-size: 15px;
+    }
+    .nc h1 {
+        font-size: 20px;
+    }
+    .nc input {
+        width: 120%;
+        font-size: 12px;
+    }
+    .icon img {
+        right: -20px;
+        width: 14%;
+    }
+    .btn input {
+        padding: 13px;
+        font-size: 15px;
+    }
+    .btn input:hover{
+        font-size: 17px;
+    }
+    footer .left ul li a {
+        
+        font-size: 14px;
+    }
+    footer .right ul li a {
+        font-size: 14px;
+    }
+  }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+
+
+@media (min-width: 1200px) {  }
